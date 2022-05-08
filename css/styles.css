@@ -91,3 +91,88 @@ header {
     justify-content: space-between;
     height: 100%;
 }
+
+.gus-facts {
+    padding: 52px 0 72px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gus-titile {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    color: #1E1F28;
+    margin: 16px 0;
+}
+
+.gus-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #1E1F28;
+    width: 875px;
+}
+
+.gus-facts-container {
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.gus-fact-item {
+    width: 33%;
+}
+
+.gus-fact-titile {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+
+.gus-fact-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    width: 280px;
+}
+
+.victory-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.victory-bgn {
+    background: linear-gradient(269.78deg, #A5DEFF 0.18%, #FCFEFF 99.79%);
+    width: 1170px;
+    padding: 71px 0;
+    margin-bottom: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.victory-titile {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    color: #1E1F28;
+    margin: 16px 0;
+}
+
+.victory-desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #1E1F28;
+    width: 875px;
+}
